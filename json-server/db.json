@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "firstName": "fsfr",
+      "lastName": "sfsdf",
+      "email": "sdfsf",
+      "phone": "sfsfd",
+      "address": "sdsdf",
+      "createdAt": "2026-01-20T15:29:33.568Z",
+      "id": 1
+    },
+    {
+      "firstName": "hfdh",
+      "lastName": "dggd",
+      "email": "df",
+      "phone": "dfg",
+      "address": "dfdgdg",
+      "createdAt": "2026-01-20T15:29:47.410Z",
+      "id": 2
+    }
+  ]
+}
